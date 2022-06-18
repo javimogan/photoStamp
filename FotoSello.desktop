@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/javimogan/WorkSpace/phyton/FotoSello/jmogan.png
+Name[en_US]=FotoSello
+Exec=python3 /home/javimogan/WorkSpace/phyton/FotoSello/main.py
+Comment[en_US]=FotoSello - javimogan - jmogan.dev@gmail.com
+Name=FotoSello
+Comment=FotoSello - javimogan - jmogan.dev@gmail.com
+Icon=/home/javimogan/WorkSpace/phyton/FotoSello/jmogan.png
